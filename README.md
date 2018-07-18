@@ -1,6 +1,5 @@
 # Web3-Geth-Solidity-Tutorial
----
-
+In this Tutorial I'll be using ubuntu16.04 desktop, as for Window users, There's references at the end of this repo.
 ## Setting the Environment
 ### Installing Geth
 As i've mentioned in the introduction i'm using ubuntu so these commands could work on Mac OS, as for window users please check reference below.
